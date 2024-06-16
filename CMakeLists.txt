@@ -3,6 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(ChitraGL)
 
 set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 # Specify the path to GLFW
 # set(CMAKE_PREFIX_PATH "/usr/local/lib/cmake/glfw3")
