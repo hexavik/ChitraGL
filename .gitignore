@@ -52,3 +52,4 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+*.code-workspace
